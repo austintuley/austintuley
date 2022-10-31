@@ -1,6 +1,7 @@
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+<p align="center"><a href="https://github.com/jasongaylord/github-stats">
   <img align="center" src="https://github.com/austintuley/github-stats/blob/master/generated/overview.svg" />
 </a>
+<a href="https://github.com/jasongaylord/github-stats">
   <img align="center" src="https://github.com/austintuley/github-stats/blob/master/generated/languages.svg" />
 </a></p>
 
