@@ -1,5 +1,7 @@
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="500" src="https://github.com/austintuley/github-stats/blob/master/generated/overview.svg" />
+  <img align="center" src="https://github.com/austintuley/github-stats/blob/master/generated/overview.svg" />
+</a>
+ <img align="center" src="https://github.com/austintuley/github-stats/blob/master/generated/languages.svg" />
 </a></p>
 
 <p align="center"><a href="https://wakatime.com/@austintuley">
